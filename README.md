@@ -12,3 +12,5 @@ We would learn how to:
 The technologies used in this exercise are HTML and CSS. The files will be created with an editor like CSV.
 
 The file named index.html can be opened by double clicking on the file.
+
+Github Page: https://fvalvic.github.io/Exercise_git_DAW2024-25/
